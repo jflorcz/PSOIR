@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-EN/azure/app-service/
+https://docs.microsoft.com/pl-pl/azure/app-service/overview-hosting-plans
+
+https://azure.microsoft.com/pl-pl/resources/videos/create-a-web-app-with-aspnet-and-azure-app-service/
+https://azure.microsoft.com/pl-pl/resources/videos/create-a-web-app-with-nodejs-and-azure-app-service/
+
